@@ -72,7 +72,7 @@ src/
 1. Clone the repository.
 
 ```bash
-git clone https://github.com/yourusername/interactive-rainfall-simulation.git
+git clone https://github.com/MKKobra/interactive-rainfall-simulation.git
 ```
 
 2. Open the project in **Visual Studio Code**.
